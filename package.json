@@ -1,0 +1,16 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "Introduzione e primi passi con node JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [
+    "node",
+    "intro"
+  ],
+  "author": "Olga Demina",
+  "license": "ISC"
+}
